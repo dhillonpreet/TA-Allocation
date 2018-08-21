@@ -1,1 +1,4 @@
-
+This folder conatins python code for random allocation of TA's based on options given by Professors in google sheet.
+We are using gspread library to access the googlesheet by using python,
+The credidentials written in the code (randomTA.py) are in the random-matching-fe28e183d850.json file.
+Sir we wil share googlesheet with you were you can enter preferences and the alloction will be displayed in another sheet.
